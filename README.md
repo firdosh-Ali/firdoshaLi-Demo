@@ -1,2 +1,3 @@
-# firdoshaLi-Demo
-This is my first Git Repository
+# firdoshali-Demo
+This is my first Git Repository.
+Author-Firdosh Ali
